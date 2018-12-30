@@ -1,8 +1,10 @@
 # TonesMixer
 
-![][https://github.com/hartmann1301/TonesMixer/blob/master/TonesMixer.gif]
+![][exampleGif]
+![][exampleGif2]
 
-![][https://github.com/hartmann1301/TonesMixer/blob/master/TonesMixer2.gif]
+[exampleGif]: https://github.com/hartmann1301/TonesMixer/blob/master/TonesMixer.gif
+[exampleGif2]: https://github.com/hartmann1301/TonesMixer/blob/master/TonesMixer2.gif
 
 A little tool to make sounds with the ArduboyTones library
 
