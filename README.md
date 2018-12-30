@@ -15,6 +15,7 @@ https://github.com/MLXXXp/ArduboyTones
 ![][exampleGif2]
 
 A: choose a tone, if chosen set duration with left/right and frequency with up/down
+
 B: play to tones you set, if already playing stop it
 
 Left/Right: go from tone to tone.
