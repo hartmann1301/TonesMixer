@@ -4,8 +4,8 @@
 
 A little tool to make sounds with the ArduboyTones library
 
-I created this because I had no idea how to make some nice sounds. 
-The default sond is "Alle meine Entchen" it is very well known in germany.
+I created this because I had no idea how to make some nice sound effect for my games. 
+The default sound is "Alle meine Entchen" it is very well known in germany.
 
 This library is needed to play any sounds:
 https://github.com/MLXXXp/ArduboyTones
@@ -24,3 +24,7 @@ If you are at the left end of your "song" you can either "add Note" or "delete L
 
 [exampleGif]: https://github.com/hartmann1301/TonesMixer/blob/master/TonesMixer.gif
 [exampleGif2]: https://github.com/hartmann1301/TonesMixer/blob/master/TonesMixer2.gif
+
+# ToDo
+
+I could include the loud sounds, this could be toggled with the B-Button while in change-note-mode.
